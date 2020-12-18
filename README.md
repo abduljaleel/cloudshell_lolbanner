@@ -8,3 +8,4 @@ Copy and run the script from <a href="https://gist.github.com/abduljaleel/387c92
 
  Type lolbanner aws has an awesome shell
 
+![Image of lolbanner](lolbanner.png)
